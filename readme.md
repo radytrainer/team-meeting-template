@@ -4,6 +4,8 @@
 - Time: `1PM - 2:30 PM`
 - Meeting Leader: `Rady`
 - Attendees: `Rady, Him, Yon and Mengheang`
+- Time Manager: `Yon`
+- Note takers: `Him`
 ### 1. Agenda
 - `Trainer_name: `  Course update (60 minutes)
 - `Anyone: ` Training show (20 minutes)
