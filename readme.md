@@ -9,7 +9,8 @@
 ### 1. Agenda
 - `Trainer_name: `  Course update (60 minutes)
 - `Anyone: ` Training show (20 minutes)
-- `Anyone: ` Topic discussion (30 minutes)
+- `Anyone: ` Topic discussion (20 minutes)
+- `Anyone: ` Identify risk for coming week(10 minutes)
 - `Coordinator: ` General update (10 minutes)
 
 ### 2. Course update (60 minutes)
@@ -33,14 +34,15 @@
 ### 3. Training show (20 minutes)
 - `Anyone: ` show their training for next session and get feedback from other trainers
 
-### 4. Topic discussion (30 minutes)
+### 4. Topic discussion (20 minutes)
 - `Anyone: ` Raise topic discussion before team meeting and lead the meeting
-
-### 5. Gernal update (10 minues)
+### 5. Identify the resk for coming week (10 minutes)
+- `Anyone: ` Identify risk for coming week (Material, exam, ...)
+### 6. Gernal update (10 minues)
 - Trainer leave
 - Day off
 - PN information
 - Other
 
-### 6. Question / Answer / Suggestion (10 minutes)
+### 7. Question / Answer / Suggestion (10 minutes)
 - `Anyone: ` Ask any questions that they would like to know about PN or working
