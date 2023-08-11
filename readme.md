@@ -27,12 +27,11 @@
 - Review action items and deadlines
 ### 4. Topic discussion (20 minutes)
 - `Anyone: ` Raise topic discussion before team meeting and lead the meeting
-### 5. Identify the resk for coming week (10 minutes)
-- `Anyone: ` Identify risk for coming week (Material, exam, ...)
-### 6. Gernal update (10 minues)
+
+### 5. Gernal update (10 minues)
 - Trainer leave
 - Day off
 - PN information
 - Other
-### 7. Question / Answer / Suggestion (10 minutes)
+### 6. Question / Answer / Suggestion (10 minutes)
 - `Anyone: ` Ask any questions that they would like to know about PN or working
