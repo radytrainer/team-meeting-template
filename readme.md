@@ -11,7 +11,7 @@
 - `Everyone: ` Planning for upcoming chapter (15 -  20 minutes)
 - `Everyone: `Plan for next week tasks(10 minutes)
 - `Everyone: ` Discussion of current student learning(10 minutes)
-- `Everyone: ` Professional development (10 minutes)
+- `Everyone: ` Professional development (40 minutes)
 - `Everyone:` Wrap-up and next steps (5 minutes)
 - `Coordinator: ` General update (10 minutes)
 ### 2. Welcome, instruction (5 minutes)
